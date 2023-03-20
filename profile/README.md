@@ -24,3 +24,7 @@
 ### 2、[mala-admin-react](https://github.com/mala-luoye/mala-admin-react)
 
 一个基于react18+ts+ArcoDesign的后台管理系统模板。
+
+### 3、[mala-admin-vue](https://github.com/mala-luoye/mala-admin-vue)
+
+一个基于vue3+ts+ArcoDesign的后台管理系统模板。
