@@ -31,7 +31,7 @@
 
 ### 4、[luoye-tools](https://github.com/mala-luoye/luoye-tools)
 
-一个JavaScript工具函数库。
+一个TypeScript工具函数库。
 
 
 
