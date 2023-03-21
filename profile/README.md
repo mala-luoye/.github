@@ -28,3 +28,19 @@
 ### 3、[mala-admin-vue](https://github.com/mala-luoye/mala-admin-vue)
 
 一个基于vue3+ts+ArcoDesign的后台管理系统模板。
+
+### 4、[luoye-tools](https://github.com/mala-luoye/luoye-tools)
+
+一个JavaScript工具函数库。
+
+
+
+# 等待进行的项目
+
+### 1、[luoyejs](https://github.com/mala-luoye/luoyejs)
+
+一个基于NodeJS的web框架项目。
+
+
+
+
