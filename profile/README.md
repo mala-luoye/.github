@@ -14,8 +14,7 @@
 联系人邮箱：1220795758@qq.com
 
 
-
-# 目前正在进行的项目
+# 正在进行的项目
 
 ### 1、[mala-ui](https://github.com/mala-luoye/mala-ui)
 
@@ -34,6 +33,12 @@
 面向前端开发者的功能函数库。
 
 
+# 维护中的项目
+
+### 1、[luoye-tree](https://github.com/mala-luoye/luoye-tree)
+
+一个为文件目录输出树形结构的命令行工具。
+
 
 # 等待进行的项目
 
@@ -41,11 +46,7 @@
 
 一个基于NodeJS的web框架项目。
 
-# 维护中的项目
 
-### 1、[luoye-tree](https://github.com/mala-luoye/luoye-tree)
-
-一个为文件目录输出树形结构的命令行工具。
 
 
 
